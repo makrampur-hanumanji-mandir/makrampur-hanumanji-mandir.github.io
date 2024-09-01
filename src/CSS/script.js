@@ -7,3 +7,5 @@ document.addEventListener("DOMContentLoaded", function () {
         document.getElementById("timingsPopup").style.display = "none";
     });
 });
+
+document.getElementById("jaiSreeRamText").innerText="जय सियाराम जय जय सियाराम | जय सियाराम जय जय सियाराम || जय सियाराम जय जय सियाराम | जय सियाराम जय जय सियाराम ||"
